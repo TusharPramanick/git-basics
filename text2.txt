@@ -1,0 +1,1 @@
+With git it's way easy to control the flow of a project locally
